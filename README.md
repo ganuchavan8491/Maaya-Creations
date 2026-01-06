@@ -21,8 +21,6 @@ This project was built to improve frontend development skills and understand rea
 This is a **clone project** made strictly for **educational purposes**.  
 All design credits belong to the original creator.
 
-## 📷 Preview
-(Add screenshots here)
 
 ## 📂 How to Use
 1. Clone the repository
